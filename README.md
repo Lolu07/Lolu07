@@ -22,8 +22,7 @@
 - 🔬 **Software Developer @ NSF Accessible Learning Labs**, building browser-based learning modules for HBCU campuses
 - ⚡ I build across the stack: cloud-native pipelines on **AWS**, a multithreaded **C++** matching engine, full-stack web apps, and quantitative models
 - 🏆 Thomas Mason Scholar · HBCUFI Scholar · ColorStack · CodePath · NSBE · nHub Foundation
-- 🌍 International student from **Lagos, Nigeria**
-- ⚽ Outside of code: soccer (Manchester United), gaming, movies and series, and ping pong
+- ⚽ Outside of code: soccer, gaming, movies and series, and ping pong
 
 ---
 
