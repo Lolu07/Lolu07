@@ -48,7 +48,7 @@
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lolu07&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lolu07&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&hide=html,css&size_weight=0.5&count_weight=0.5" alt="Top languages" />
 </p>
 
 <p align="center">
