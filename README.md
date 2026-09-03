@@ -10,7 +10,6 @@
   <a href="https://www.linkedin.com/in/michael-adeniyi-omololu/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://michael-adeniyi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:adeniyi.michael@philander.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Lolu07&label=Profile%20views&color=2bb673&style=for-the-badge" alt="Profile views"/>
 </p>
 
 ---
